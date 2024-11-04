@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\bin\Debug\net6.0-windows\Comandos.deps.json
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\bin\Debug\net6.0-windows\Comandos.dll
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\bin\Debug\net6.0-windows\Comandos.pdb
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.dll
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\refint\Comandos.dll
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\Comandos.pdb
+C:\Users\Lenovo\source\repos\BasesDeDatosI\Comandos\obj\Debug\net6.0-windows\ref\Comandos.dll
